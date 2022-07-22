@@ -1,0 +1,65 @@
+*{
+    background-color: white;
+    font-family: sans-serif;
+}
+
+.main-div {
+    text-align: center;
+}
+
+html, body {
+    margin: 0%;
+    padding: 0%
+}
+
+.nav li {
+    display: inline;
+    padding: .5em;
+    text-decoration: none;
+    color: black;
+}
+.section1 {
+    background-image: url("/webClone/images/hmgoepprod\ \(1\).jpg");
+    background-size: cover;
+    padding: 500px;
+    background-position: center;
+    color: black;
+}
+
+.nav-one {
+    justify-content: stretch;
+}
+
+.section-products div {
+    display: inline;
+}
+
+.section2 {
+    background-image: url(/webClone/images/hmgoepprod.png);
+    background-size: cover;
+    padding: 50px;
+    background-position: center;
+    margin-bottom: 5%;
+}
+
+.section3 {
+    background-image: url(/webClone/images/hmgoepprod\ \(3\).jpg);
+    background-size: cover;
+    padding: 500px;
+    background-position: center;
+}
+
+.section4 {
+    background-image: url(/webClone/images/hmgoepprod\ \(12\).jpg);
+    background-size: cover;
+    padding: 200px;
+    background-position: center;
+}
+
+.section5 h2 {
+    color: red;
+}
+
+/* .button{margin-bottom:8px}
+
+.container,.emptyHeading{border-bottom:1px solid #d0d0d0}.noCarousel{padding:16px 0}.topSkeleton{margin-top:32px}.emptyHeading{line-height:1.25;font-size:.8125rem;font-family:"HM Sans Semi Bold","HMSansHebrew-SemiBold","ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro",Osaka,"メイリオ",Meiryo,"ＭＳ Ｐゴシック","MS PGothic",sans-serif;font-weight:600;text-transform:none;margin:0;padding-bottom:32px}.container .article{height:128px} */
